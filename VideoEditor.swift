@@ -1,9 +1,8 @@
 //
 //  VideoEditor.swift
-//  BlackDot
 //
 //  Created by Ivan Nezdropa on 06.04.2020.
-//  Copyright © 2020 CookieDev. All rights reserved.
+//  All rights reserved.
 //
 
 import UIKit
